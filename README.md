@@ -1,13 +1,13 @@
 # FileUploadApi
 ------------------------------------------------------------------------------------------------------------------------
-##Challenges
+## Challenges
 
 As the technology I use at present is proprietary, I had to refresh my knowledge surrounding certain technologies.
 In respect to the technologies used by NCTech and my experience at my previous role, I chose to undertake this with a
 Spring boot framework. I also attempted to include a Swagger implementation, but due to time constraints and other
 commitments I was unable to complete this.
 
-##Enhancments
+## Enhancements
 
 ### 1. Authentication
 
